@@ -1,0 +1,2 @@
+# favourite_app_riverpod_state_notifier-_provider
+favourite_app_riverpod_state_notifier _provider
